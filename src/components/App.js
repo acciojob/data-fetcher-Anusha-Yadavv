@@ -22,7 +22,7 @@ const App = () => {
     };
 
     fetchData();
-  }, []);
+  }, [])
 
   return (
     <div>
